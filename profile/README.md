@@ -1,7 +1,7 @@
 # TumikiJS
 
 ## Language
-[JA](https://github.com/TumikiJS) / [EN](https://github.com/TumikiJS/.Github/EN_README.md)
+[JA](https://github.com/TumikiJS) / [EN](https://github.com/TumikiJS/.Github/blob/main/profile/EN_README.md)
 
 ## Summary
 TumikiJSは、あらゆる操作をストレスなく扱うためのモジュール群です。複雑かつ理解しがたいプログラムを一貫性があるシンプルな記述で利用できます。
